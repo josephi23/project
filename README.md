@@ -28,7 +28,7 @@ Here's some words about the book _One Hundred Years_....
 
 [You're **really, really going** to want to see this.](http://www.dailykitten.com/)
 
-#### The Latest News from [the BBC](http://www.bbc/news:/)
+#### The Latest News from [the BBC](http://www.bbc.com/news/)
 
 Do you want to [see something fun][a fun place]?
 
