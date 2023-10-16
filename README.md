@@ -35,7 +35,7 @@ Do you want to [see something fun][a fun place]?
 Well, do I have [the website for you][another fun place]!
 
 [a fun place]: http://www.zombo.com/
-[another fun place]: http://www.stumble.com/
+[another fun place]: http://www.stumbleupon.com/
 
 ![a pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 
