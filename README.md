@@ -24,7 +24,7 @@ If you're thinking to yourself, **_This is unbelievable,_** you'd probably be ri
 
 Here's some words about the book _One Hundred Years_....
 
-[Search for it](http://www.google.com) 
+[Search for it](http://www.google.com/) 
 
 [You're **really, really going** to want to see this.](http://www.dailykitten.com)
 
