@@ -26,20 +26,20 @@ Here's some words about the book _One Hundred Years_....
 
 [Search for it](http://www.google.com/) 
 
-[You're **really, really going** to want to see this.](http://www.dailykitten.com)
+[You're **really, really going** to want to see this.](http://www.dailykitten.com/)
 
-#### The Latest News from [the BBC](http://www.bbc/news:)
-
-Do you want to [see something fun][a fun place]?
-
-Well, do I have [the website for you][another fun place]!
+#### The Latest News from [the BBC](http://www.bbc/news:/)
 
 Do you want to [see something fun][a fun place]?
 
 Well, do I have [the website for you][another fun place]!
 
-[a fun place]: www.zombo.com
-[another fun place]: www.stumble.com
+Do you want to [see something fun][a fun place]?
+
+Well, do I have [the website for you][another fun place]!
+
+[a fun place]: www.zombo.com/
+[another fun place]: www.stumble.com/
 
 ![a pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 
