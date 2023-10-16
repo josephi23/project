@@ -24,11 +24,11 @@ If you're thinking to yourself, **_This is unbelievable,_** you'd probably be ri
 
 Here's some words about the book _One Hundred Years_....
 
-[Search for it](www.google.com) 
+[Search for it](http://www.google.com) 
 
-[You're **really, really going** to want to see this.](www.dailykitten.com)
+[You're **really, really going** to want to see this.](http://www.dailykitten.com)
 
-#### The Latest News from [the BBC](www.bbc/news:)
+#### The Latest News from [the BBC](http://www.bbc/news:)
 
 Do you want to [see something fun][a fun place]?
 
